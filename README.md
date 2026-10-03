@@ -34,6 +34,7 @@ Currently building with others at **Zyelabs**, **Ummah Tech** and the **TPSS Acc
 - [Hacker News](https://news.ycombinator.com/user?id=ismail)
 - [Codiez](https://blog.codiez.co.za)
 - [Global Voices](https://globalvoices.org/author/ismail-dhorat/)
+- [Good Reads](https://goodreads.com/ismaild)
 
 ## /list — Active channels
 
