@@ -152,6 +152,7 @@ Research (2024): *Towards a theory on the pursuit of character development and p
 - **[Ashraf Garda & Ismail Dhorat — Ummah Tech Conference 2024](https://www.youtube.com/watch?v=CtxoiQWmdFw)** — A conversation about Muslim participation and leadership in technology.
 - **[The Madinah Operating System — Ummah Tech Conference 2025](https://www.youtube.com/watch?v=RIIAUvbmI-o)** — My talk at Ummah Tech Conference 2025.
 - **[Conquering the Cliff — Between Classes by QIA](https://www.youtube.com/watch?v=kxppYKyDQCU)** — A conversation with Muhammad Bagus about climbing, challenges and experiences in the mountains. August 2024.
+- **[On Faith, Fatherhood and Becoming](https://youtu.be/P_J-2EamRIM?si=44uX3eBMinBMVNmM)** - A conversation with Hawa Lakhana (Interview with H) on Faith, loss, fatherhood, finding your qibla and becoming.
 
 ## #recognition
 
