@@ -46,9 +46,10 @@ We build the data platforms, pipelines, software and dashboards that help organi
 
 ### [Ummah Tech](https://ummahtech.net/)
 
-**Co-Creator**
+**Community Steward**
+Non-Profit, Supporting the muslim & ethical tech ecosystem in South Africa. 
 
-A South African nonprofit community of Muslim technologists, founders, researchers and creatives. I helped fund and launch it to bring people together around ethical technology, collaboration and work that benefits the wider community.
+Committed to supporting people building a more ethical and just technological future for all.
 
 ### [Basira Collective](https://basiracollective.com/)
 
