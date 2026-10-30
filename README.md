@@ -1,7 +1,7 @@
 
 # Ismail Dhorat
 
-`#ismail — leadership, business, software, systems, faith & things worth building`
+`#ismail — leadership, business, software, systems, faith, building & organising for change`
 
 <img src="profile.jpg" alt="Ismail Dhorat" width="180">
 
