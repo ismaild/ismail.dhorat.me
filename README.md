@@ -5,7 +5,7 @@
 
 <img src="profile.jpg" alt="Ismail Dhorat" width="180">
 
-**Wayfarer · Learning in public.**
+**Organising for Change | Wayfarer | Learning in public**
 
 ```text
 * dissi has joined #ismail
