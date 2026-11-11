@@ -82,7 +82,7 @@ A venture-backed startup connecting customers with restaurants through an online
 A ride-sharing service for people commuting to work. I worked across customer research, product strategy and launch, and led the development team.
 
 ### StartupAfrica · 2009–2013 
-An early platform covering Africa’s growing technology scene, from web and mobile startups to industry events and news. [StartupAfrica Archive](https://drive.google.com/file/d/1NrKEvkmzTDc8Ax6xNBgk8onRptazK3Vk/view)
+An early platform covering Africa’s growing technology scene, from web and mobile startups to industry events and news. [StartupAfrica Archive](https://web.archive.org/web/20130430171033/http://www.startupafrica.com/)
 
 ### Ramadan.co.za · 2008–2012
 A South African Ramadan community resource bringing together Islamic reflections, practical guidance and stories from the Muslim community in South Africa, and across the world. [Ramadancoza Archive](https://web.archive.org/web/20130118025011/http://www.ramadan.co.za/)
