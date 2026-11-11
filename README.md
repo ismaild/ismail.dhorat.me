@@ -65,7 +65,7 @@ The accelerator is open to Muslim founders anywhere in the world, across tech an
 
 I’m part of the founding core team of six. I helped design the programme and delivered the strategy and go-to-market module.
 
-## #startup-graveyard
+## #startup-project-graveyard
 
 Past ventures. Hard knocks. Lessons carried forward.
 
@@ -73,13 +73,19 @@ Past ventures. Hard knocks. Lessons carried forward.
 
 **Co-Founder & CEO**
 
-A venture-backed startup connecting customers with restaurants through an online takeaway and food-delivery marketplace. I worked across the concept, fundraising, customer development, product strategy and launch.
+A venture-backed startup connecting customers with restaurants through an online takeaway and food-delivery marketplace. I worked across the concept, fundraising, customer development, product strategy and launch. [ChowHub Demo Day Pitch](https://www.youtube.com/watch?v=rWbAcV2gJdE)
 
 ### zapAride · 2015
 
 **Co-Founder**
 
 A ride-sharing service for people commuting to work. I worked across customer research, product strategy and launch, and led the development team.
+
+### StartupAfrica · 2009–2013 
+An early platform covering Africa’s growing technology scene, from web and mobile startups to industry events and news. [StartupAfrica Archive](https://drive.google.com/file/d/1NrKEvkmzTDc8Ax6xNBgk8onRptazK3Vk/view)
+
+### Ramadan.co.za · 2008–2012
+A South African Ramadan community resource bringing together Islamic reflections, practical guidance and stories from the Muslim community in South Africa, and across the world. [Ramadancoza Archive](https://web.archive.org/web/20130118025011/http://www.ramadan.co.za/)
 
 ## #build-log
 
