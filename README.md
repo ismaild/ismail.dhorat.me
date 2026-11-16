@@ -127,7 +127,7 @@ Academic writing, working papers and extracts on systems thinking, leadership, m
 
 - **[Islamic History & Civilisation](https://drive.google.com/file/d/1-IAHWkn3bu4SmKuxKaY2EDNrFs5q0k6Q/view)** — Essays examining Islam as an open civilisation and the narrative of decline in the post-classical age. December 2024.
 
-- **[Sensemaking Sense-making](https://drive.google.com/file/d/1PZWIxEvnsm0RW0nP0cBB8W_cluYT2FvS/view)** — A literature review on sensemaking as the process of building plausible interpretations of uncertainty, testing them through action and conversation, and refining them as understanding develops.
+- **[Sensemaking Sense-making](https://drive.google.com/file/d/1PZWIxEvnsm0RW0nP0cBB8W_cluYT2FvS/view)** — A literature review on sensemaking as the process of building plausible interpretations of uncertainty, testing them through action and conversation, and refining them as understanding develops. An emerging conceptual model and theory that explains sense-making.
 
 [Browse the full working papers folder](https://drive.google.com/drive/folders/1En_rjgnWXtd9PdljoCBmTf-HLkC21n-6)
 
